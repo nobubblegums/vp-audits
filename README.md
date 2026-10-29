@@ -6,4 +6,4 @@ Read [source baselines and verification limits](ai/source-snapshots.md) before r
 
 External recovered artifacts, source checkouts, DB snapshots and temporary test fixtures are not distributed. References to them identify historical evidence rather than files required to read this repository. Repository-local links connect the included supporting audits.
 
-Local maintenance may retain an ignored original `ai/source-snapshots.local.md`; the public reference is `ai/source-snapshots.md`. No local policy or tooling is required to use these documents.
+No local policy or tooling is required to use these documents.
